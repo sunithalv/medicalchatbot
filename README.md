@@ -1,6 +1,6 @@
 # MedicalChatbot
 
-The goal of the project is to create a medical chatbot which can identify diseases and prescribe medicines based on the symptoms provided. The data for reference is taken from the The Gale Encyclopedia of Medicine
+The goal of the project is to create a medical chatbot which can ask questions related to diseases. The data for reference is taken from the The Gale Encyclopedia of Medicine.The LLM model used is https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML.
 
 ## Tech Used
 1. Llama2
